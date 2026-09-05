@@ -1,5 +1,9 @@
 # 👋 hjseo-dev
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A072&background=00000000&center=true&vCenter=true&width=600&lines=Back-end+Developer;8%EB%85%84%EC%B0%A8+%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;AI%EC%99%80+%ED%98%91%EC%97%85%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+</p>
+
 맡은 일은 끝까지 책임지고, 동료와 함께 일하는 과정에서 성장의 즐거움을 찾는 개발자입니다.
 크고 작은 실무 프로젝트를 거치며 쌓아온 경험을, 이제는 AI 에이전트와 함께 더 빠르고 정교하게 풀어내는 방법을 고민하고 있습니다.
 
