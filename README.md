@@ -5,11 +5,11 @@
 
 ![Total Experience](https://img.shields.io/badge/⏳_총_경력-8년_1개월-FF7A00?style=for-the-badge&labelColor=1A1A1A)
 ![Current](https://img.shields.io/badge/💼_현재-게임업계_상주_프리랜서-00C896?style=for-the-badge&labelColor=1A1A1A)
-![Role](https://img.shields.io/badge/🎯_지향-Back--end_·_Full--stack-2F81F7?style=for-the-badge&labelColor=1A1A1A)
+![Role](https://img.shields.io/badge/🎯_포지션-Back--end_·_Full--stack-2F81F7?style=for-the-badge&labelColor=1A1A1A)
 
 ---
 
-## 💼 Career
+## 💼 Career — 총 8년 1개월
 
 | 기간 | 형태 | 내용 |
 |:---|:---:|:---|
