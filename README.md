@@ -1,22 +1,20 @@
 # hjseo-dev
 
-AI 마스터를 꿈꾸는 개발자입니다.
-서울 기반으로 모바일 앱과 백엔드 API를 만들고 있습니다.
+꾸준히 성장하는 개발자입니다.
+해야 할 일을 마치고 느끼는 뿌듯함을 좋아하고, 지식을 공유하며 함께 성장하는 것을 중요하게 생각합니다.
 
-## 하고 있는 일
+## Career
 
-- React Native + TypeScript 기반 모바일 앱 개발
-- Java(Spring Boot) 기반 백엔드 API 설계 및 구현
-- PostgreSQL을 이용한 데이터 모델링
-- Claude Code를 활용한 AI 협업 개발 워크플로우 학습 및 적용
+- 총 개발 경력 약 8년
+- 대기업 프리랜서 개발자로 재직 중 (2023.02 ~ 현재)
+- Back-end 중심으로 시작해 Full-stack 영역까지 경험을 넓혀왔습니다
 
-## 기술 스택
+## Tech Stack
 
-**Frontend** — React Native, TypeScript, Expo
-**Backend** — Java, Spring Boot
-**Database** — PostgreSQL
-**Tools** — Git, Claude Code
+**Language & Framework** — Java, Spring Boot, Node.js
+**Frontend** — React Native, TypeScript
+**Database** — Oracle, PostgreSQL
 
-## 지금 배우고 있는 것
+## Contact
 
-- AI 코딩 에이전트를 실무 개발 프로세스에 녹이는 방법 (`study_claude` 참고)
+- Email: hdoo831@naver.com
