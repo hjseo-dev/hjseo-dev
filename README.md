@@ -1,39 +1,37 @@
 # 👋 hjseo-dev
 
-협업을 중시하며, 동료를 돕는 것을 즐기는 책임감 있는 8년 차 개발자입니다.
-해야 할 일을 마치고 느끼는 뿌듯함을 좋아하고, 지식을 공유하며 함께 성장하는 것을 중요하게 생각합니다.
+맡은 일은 끝까지 책임지고, 동료와 함께 일하는 과정에서 성장의 즐거움을 찾는 개발자입니다.
+크고 작은 실무 프로젝트를 거치며 쌓아온 경험을, 이제는 AI 에이전트와 함께 더 빠르고 정교하게 풀어내는 방법을 고민하고 있습니다.
+
+![Total Experience](https://img.shields.io/badge/총_경력-8년_1개월-B8621B?style=for-the-badge)
+![Current](https://img.shields.io/badge/현재-게임업계_상주_프리랜서-E8A25D?style=for-the-badge)
+![Role](https://img.shields.io/badge/Back--end-Full--stack%20지향-292524?style=for-the-badge)
 
 ---
 
-## 💼 Career — 총 8년 1개월
+## 💼 Career
 
-- **2023.02 ~ 현재** · 게임업계 대기업 상주 프리랜서 — 사내 시스템 / 권한관리 시스템 / 예약 시스템 등 운영·개발
-- **2022.02 ~ 2022.09** (8개월) · 대기업 복지몰 플랫폼 프리랜서 개발 — 관리자 화면 및 통합 서비스 기능 구현
-- **2019.12 ~ 2021.04** (1년 5개월) · IoT 관제 서비스 기업 — 제조/자동차 분야 모니터링 시스템 개발
-- **2018.07 ~ 2019.12** (1년 6개월) · IoT 관제 서비스 기업 — 스마트시티 디바이스 관제 서비스 개발
-- **2017.05 ~ 2018.04** (1년) · 콘텐츠 플랫폼 스타트업 — 오디오/미디어 서비스 백엔드 개발
+| 기간 | 형태 | 내용 |
+|:---|:---:|:---|
+| **2023.02 ~ 현재** | 상주 프리랜서 | 🎮 게임업계 대기업 — 사내 시스템 / 권한관리 시스템 / 예약 시스템 운영·개발 |
+| **2022.02 ~ 2022.09** (8개월) | 프리랜서 | 🛍️ 대기업 복지몰 플랫폼 — 관리자 화면 및 통합 서비스 기능 구현 |
+| **2019.12 ~ 2021.04** (1년 5개월) | 정규직 | 🚗 IoT 관제 서비스 기업 — 제조/자동차 분야 모니터링 시스템 개발 |
+| **2018.07 ~ 2019.12** (1년 6개월) | 정규직 | 🏙️ IoT 관제 서비스 기업 — 스마트시티 디바이스 관제 서비스 개발 |
+| **2017.05 ~ 2018.04** (1년) | 정규직 | 🎧 콘텐츠 플랫폼 스타트업 — 오디오/미디어 서비스 백엔드 개발 |
 
 ---
 
 ## 📈 Growth Timeline
 
-```mermaid
-flowchart LR
-    A["2017~18<br/>콘텐츠 플랫폼<br/>백엔드 개발"] --> B["2018~19<br/>IoT 관제 서비스<br/>개발"]
-    B --> C["2019~21<br/>IoT 관제 서비스<br/>고도화"]
-    C --> D["2021<br/>컴퓨터과학<br/>전공 진학"]
-    D --> E["2022<br/>대기업 복지몰<br/>플랫폼 프리랜서"]
-    E --> F["2023~<br/>게임업계<br/>상주 프리랜서"]
-    F --> G["2023~25<br/>정보처리기사 ·<br/>리눅스마스터 1급"]
-
-    style A fill:#FDECD8,stroke:#B8621B,color:#292524
-    style B fill:#FDECD8,stroke:#B8621B,color:#292524
-    style C fill:#FDECD8,stroke:#B8621B,color:#292524
-    style D fill:#E8A25D,stroke:#B8621B,color:#292524
-    style E fill:#E8A25D,stroke:#B8621B,color:#292524
-    style F fill:#B8621B,stroke:#292524,color:#FAFAF9
-    style G fill:#B8621B,stroke:#292524,color:#FAFAF9
-```
+| 연도 | 주요 이벤트 |
+|:---:|:---|
+| 2017 | 콘텐츠 플랫폼 백엔드 개발로 커리어 시작 |
+| 2018 ~ 2019 | IoT 관제 서비스 개발 참여 |
+| 2019 ~ 2021 | IoT 관제 서비스 고도화 |
+| 2021 | 컴퓨터과학 전공 진학 |
+| 2022 | 대기업 복지몰 플랫폼 프리랜서 |
+| 2023 | 게임업계 상주 프리랜서 시작 · 정보처리기사 취득 |
+| 2025 | 리눅스마스터 1급 취득 |
 
 ---
 
@@ -62,8 +60,12 @@ flowchart LR
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 **Architecture / etc.**
-`MSA` `RESTful API` `Ajax` `Thymeleaf` `RDBMS 설계`
+`MSA` `RESTful API` `Ajax` `Thymeleaf` `JSP` `RDBMS 설계`
 
 **🤖 AI Agent**
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
