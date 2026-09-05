@@ -18,15 +18,21 @@
 ## 📈 Growth Timeline
 
 ```mermaid
-timeline
-    title 성장 타임라인
-    2017 : 콘텐츠 플랫폼 백엔드 개발 시작
-    2018 : IoT 관제 서비스 개발 참여
-    2019 : IoT 관제 서비스 고도화
-    2021 : 컴퓨터과학 전공 진학
-    2022 : 대기업 복지몰 플랫폼 프리랜서
-    2023 : 게임업계 상주 프리랜서 시작 · 정보처리기사 취득
-    2025 : 리눅스마스터 1급 취득
+flowchart LR
+    A["2017~18<br/>콘텐츠 플랫폼<br/>백엔드 개발"] --> B["2018~19<br/>IoT 관제 서비스<br/>개발"]
+    B --> C["2019~21<br/>IoT 관제 서비스<br/>고도화"]
+    C --> D["2021<br/>컴퓨터과학<br/>전공 진학"]
+    D --> E["2022<br/>대기업 복지몰<br/>플랫폼 프리랜서"]
+    E --> F["2023~<br/>게임업계<br/>상주 프리랜서"]
+    F --> G["2023~25<br/>정보처리기사 ·<br/>리눅스마스터 1급"]
+
+    style A fill:#FDECD8,stroke:#B8621B,color:#292524
+    style B fill:#FDECD8,stroke:#B8621B,color:#292524
+    style C fill:#FDECD8,stroke:#B8621B,color:#292524
+    style D fill:#E8A25D,stroke:#B8621B,color:#292524
+    style E fill:#E8A25D,stroke:#B8621B,color:#292524
+    style F fill:#B8621B,stroke:#292524,color:#FAFAF9
+    style G fill:#B8621B,stroke:#292524,color:#FAFAF9
 ```
 
 ---
