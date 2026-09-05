@@ -1,21 +1,20 @@
-```text
+<pre>
   _      _                          _            
  | |__  (_)___  ___  ___         __| | _____   __
  | '_ \ | / __|/ _ \/ _ \ _____ / _` |/ _ \ \ / /
- | | | || \__ \  __/ (_) |_____| (_| |  __/\ V / 
+ | | | || \__ \  __/ (_) |_____| (_| |  __/\ V / <sub>(Walnut Labs.)</sub>
  |_| |_|/ |___/\___|\___/       \__,_|\___| \_/  
       |__/                                        
-```
-
-<p align="right"><sub>(Walnut Labs.)</sub></p>
+</pre>
 
 맡은 일은 끝까지 책임지고, 동료와 함께 일하는 과정에서 성장의 즐거움을 찾는 개발자입니다.
 크고 작은 실무 프로젝트를 거치며 쌓아온 경험을, 이제는 AI 에이전트와 함께 더 빠르고 정교하게 풀어내는 방법을 고민하고 있습니다.
 
-<p align="center"><img src="./assets/stats.svg" alt="stats" /></p>
+![Total Experience](https://img.shields.io/badge/⏳_총_경력-8년_1개월-FF7A00?style=for-the-badge&labelColor=1A1A1A)
+![Current](https://img.shields.io/badge/💼_현재-게임업계_상주_프리랜서-00C896?style=for-the-badge&labelColor=1A1A1A)
+![Role](https://img.shields.io/badge/🎯_포지션-Back--end_·_Full--stack-2F81F7?style=for-the-badge&labelColor=1A1A1A)
 
 ---
-
 ## 💼 Career — 총 8년 1개월
 
 | 기간 | 형태 | 내용 |
