@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="758" height="30" viewBox="0 0 758 30" font-family="'Segoe UI','Malgun Gothic',sans-serif">
+  <defs>
+    <clipPath id="b1"><rect x="0" y="0" width="190" height="30" rx="6"/></clipPath>
+    <clipPath id="b2"><rect x="204" y="0" width="250" height="30" rx="6"/></clipPath>
+    <clipPath id="b3"><rect x="468" y="0" width="290" height="30" rx="6"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#b1)">
+    <rect x="0" y="0" width="70" height="30" fill="#1A1A1A"/>
+    <rect x="70" y="0" width="120" height="30" fill="#FF7A00"/>
+  </g>
+  <text x="35" y="19" text-anchor="middle" font-size="12" fill="#E5E7EB">⏳ 총 경력</text>
+  <text x="130" y="19" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">8년 1개월</text>
+
+  <g clip-path="url(#b2)">
+    <rect x="204" y="0" width="70" height="30" fill="#1A1A1A"/>
+    <rect x="274" y="0" width="180" height="30" fill="#8957E5"/>
+  </g>
+  <text x="239" y="19" text-anchor="middle" font-size="12" fill="#E5E7EB">💼 현재</text>
+  <text x="364" y="19" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">게임업계 상주 프리랜서</text>
+
+  <g clip-path="url(#b3)">
+    <rect x="468" y="0" width="90" height="30" fill="#1A1A1A"/>
+    <rect x="558" y="0" width="200" height="30" fill="#2F81F7"/>
+  </g>
+  <text x="513" y="19" text-anchor="middle" font-size="12" fill="#E5E7EB">🎯 포지션</text>
+  <text x="658" y="19" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">BACK-END · FULL-STACK</text>
+</svg>

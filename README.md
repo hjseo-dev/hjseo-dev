@@ -8,11 +8,10 @@
 </pre>
 
 맡은 몫은 책임지고 끝까지 완수하며, 부족한 부분은 스스로 찾아 채우고 동료의 일도 제 일처럼 함께 짊어지는 개발자입니다.<br/>
-크고 작은 실무 프로젝트를 거치며 쌓아온 경험을, 이제는 AI 에이전트와 함께 더 빠르고 정교하게 풀어내는 방법을 고민하고 있습니다.
+크고 작은 실무 프로젝트를 거치며 쌓아온 경험을, 이제는 AI 에이전트와 함께 더 빠르고 정교하게 풀어내는 방법을 고민하고 있습니다.<br/>
+배운 것을 나누고 함께 성장하는 과정에서도 큰 보람을 느끼며, 그 마음으로 꾸준히 누군가의 성장을 돕고 있습니다.
 
-![Total Experience](https://img.shields.io/badge/⏳_총_경력-8년_1개월-FF7A00?style=for-the-badge&labelColor=1A1A1A)
-![Current](https://img.shields.io/badge/💼_현재-게임업계_상주_프리랜서-00C896?style=for-the-badge&labelColor=1A1A1A)
-![Role](https://img.shields.io/badge/🎯_포지션-Back--end_·_Full--stack-2F81F7?style=for-the-badge&labelColor=1A1A1A)
+<p align="center"><img src="./assets/badges.svg" alt="badges" /></p>
 
 ---
 ## 💼 Career — 총 8년 1개월
