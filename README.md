@@ -3,9 +3,9 @@
 맡은 일은 끝까지 책임지고, 동료와 함께 일하는 과정에서 성장의 즐거움을 찾는 개발자입니다.
 크고 작은 실무 프로젝트를 거치며 쌓아온 경험을, 이제는 AI 에이전트와 함께 더 빠르고 정교하게 풀어내는 방법을 고민하고 있습니다.
 
-![Total Experience](https://img.shields.io/badge/총_경력-8년_1개월-B8621B?style=for-the-badge)
-![Current](https://img.shields.io/badge/현재-게임업계_상주_프리랜서-E8A25D?style=for-the-badge)
-![Role](https://img.shields.io/badge/Back--end-Full--stack%20지향-292524?style=for-the-badge)
+![Total Experience](https://img.shields.io/badge/⏳_총_경력-8년_1개월-FF7A00?style=for-the-badge&labelColor=1A1A1A)
+![Current](https://img.shields.io/badge/💼_현재-게임업계_상주_프리랜서-00C896?style=for-the-badge&labelColor=1A1A1A)
+![Role](https://img.shields.io/badge/🎯_지향-Back--end_·_Full--stack-2F81F7?style=for-the-badge&labelColor=1A1A1A)
 
 ---
 
