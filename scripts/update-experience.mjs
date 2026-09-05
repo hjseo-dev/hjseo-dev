@@ -8,6 +8,10 @@ import { readFileSync, writeFileSync } from "node:fs";
 const BASELINE_YEAR = 2026;
 const BASELINE_MONTH = 9; // September, 1-indexed
 const BASELINE_TOTAL_MONTHS = 8 * 12 + 1; // "8년 1개월" as of the baseline month
+// Sum of the four completed jobs (2017.05~2018.04, 2018.07~2019.12,
+// 2019.12~2021.04, 2022.02~2022.09) — this stays fixed forever.
+const FIXED_PAST_MONTHS = 12 + 18 + 17 + 8;
+const BASELINE_ONGOING_MONTHS = BASELINE_TOTAL_MONTHS - FIXED_PAST_MONTHS; // current role, as of baseline
 
 const now = new Date();
 const nowYear = now.getUTCFullYear();
@@ -15,10 +19,18 @@ const nowMonth = now.getUTCMonth() + 1;
 
 const deltaMonths = (nowYear - BASELINE_YEAR) * 12 + (nowMonth - BASELINE_MONTH);
 const totalMonths = BASELINE_TOTAL_MONTHS + deltaMonths;
+const ongoingMonths = BASELINE_ONGOING_MONTHS + deltaMonths;
 
-const years = Math.floor(totalMonths / 12);
-const months = totalMonths % 12;
-const totalStr = months === 0 ? `${years}년` : `${years}년 ${months}개월`;
+function formatDuration(totalM, suffix = "") {
+  const years = Math.floor(totalM / 12);
+  const months = totalM % 12;
+  if (years === 0) return `${months}개월${suffix}`;
+  if (months === 0) return `${years}년${suffix}`;
+  return `${years}년 ${months}개월${suffix}`;
+}
+
+const totalStr = formatDuration(totalMonths);
+const ongoingStr = formatDuration(ongoingMonths, "째");
 
 function updateFile(path, replacer) {
   const before = readFileSync(path, "utf8");
@@ -32,10 +44,15 @@ function updateFile(path, replacer) {
 }
 
 updateFile("README.md", (text) =>
-  text.replace(
-    /(## 💼 Career — 총 )\S+년(?: \S+개월)?/,
-    `$1${totalStr}`
-  )
+  text
+    .replace(
+      /(## 💼 Career — 총 )\S+년(?: \S+개월)?/,
+      `$1${totalStr}`
+    )
+    .replace(
+      /(\*\*2023\.02 ~ 현재\*\*) \([^)]*째\)/,
+      `$1 (${ongoingStr})`
+    )
 );
 
 updateFile("assets/badges.svg", (text) =>
@@ -45,4 +62,4 @@ updateFile("assets/badges.svg", (text) =>
   )
 );
 
-console.log(`Total experience is now: ${totalStr}`);
+console.log(`Total experience is now: ${totalStr} (current role: ${ongoingStr})`);
